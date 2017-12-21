@@ -1,2 +1,2 @@
-# shell-utils
-This is repo for my shell-utils that I'm using. 
+# utils
+This is repo for my utilities  that I'm using. 
