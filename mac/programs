@@ -15,6 +15,7 @@ commander one,
 spectacle,
 iterm2,
 sublime,
+anytrans(optional!),
 tele
 ]
 
