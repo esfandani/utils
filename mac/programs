@@ -19,7 +19,7 @@ anytrans(optional!),
 tele,
 octave,
 youtube-dl,
-oh my zsh,
+oh my zsh,//plugins=(git colored-man colorize github jira vagrant virtualenv pip python brew osx zsh-syntax-highlighting mvn) and ZSH_THEME="avit"
 EaseUS MobiMover
 
 https://stackoverflow.com/questions/26252591/mac-os-x-and-multiple-java-versions/47699905#47699905
@@ -27,3 +27,4 @@ http://scala.masanorihashimoto.com/2014/04/how-to-install-the-scala-version-mana
 https://nodesource.com/blog/installing-node-js-tutorial-using-nvm-on-mac-os-x-and-ubuntu/
 https://stackoverflow.com/questions/10145470/how-can-i-maximize-the-editor-pane/48917208#48917208
 Move caret to next/previous word ctrl+f/b
+
